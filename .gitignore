@@ -1,0 +1,24 @@
+# Roblox Development .gitignore
+
+# Roblox Backup Files
+*.rbxlx
+*.rbxl
+*.rbxmx
+*.rbx
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Other IDEs
+*.sublime-project
+*.sublime-workspace
+.idea/
+*.sln
+*.userprefs
